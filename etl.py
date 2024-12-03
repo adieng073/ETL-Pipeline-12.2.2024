@@ -1,5 +1,5 @@
 #from sql database to s3 with a cron joub scheduler
-# TODO: Airflow implmentation at a later date
+# TODO: Airflow changes at a later date
 
 #import time,sqlachemy, pandas, and airflow lib
 from sqlalchemy import create_engine
